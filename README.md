@@ -1,2 +1,2 @@
 # AmalaRaju_Portfolio
-A curated portfolio of data analytics projects showcasing skills in data cleaning, exploratory data analysis, data visualization, and machine learning.Projects span various domains and demonstrate proficiency in tools such as Python, SQL and Alteryx.
+A curated portfolio of data analytics projects showcasing skills in data cleaning, exploratory data analysis, data visualization, and machine learning.Projects span various domains and demonstrate proficiency in tools such as Python, SQL,Alteryx and Power BI. [PowerBI Procurement analysis Dashboard (.pbix)]-(https://drive.google.com/file/d/1aB31QeCpqj1amVkaMjZoZIcBhJieE02R/view?usp=drive_link)
